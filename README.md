@@ -6,4 +6,8 @@ Difference at midnight:
 Difference at midnight:
 ![dawn](https://user-images.githubusercontent.com/59838970/172047230-5cb5b099-18bc-4d09-9eb3-afa2f0e63956.jpg)
 
+Difference in the nether:
+![nether](https://user-images.githubusercontent.com/59838970/172048813-46a374e2-0ac6-4d3d-b519-a6b709efabba.jpg)
+
+
 Full screenshots: https://imgur.com/a/BaZnM2h
